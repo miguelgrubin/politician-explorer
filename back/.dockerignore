@@ -1,0 +1,9 @@
+*
+!src
+!data
+!tests
+!.pylintrc
+!.editorconfig
+!Makefile
+!poetry.lock
+!pyproject.toml
